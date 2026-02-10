@@ -1,4 +1,4 @@
-# KataGo Policy & Value Networks
+# Play_Katago_with_DeepLearning
 
 This repository contains my **personal experiments and model versions** for the **Deep Learning project** in the Master 2 *Intelligence Artificielle, Systèmes et Données* at **Université Paris Dauphine – PSL**.
 
